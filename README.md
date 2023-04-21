@@ -103,6 +103,16 @@
 ![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Rancher](https://img.shields.io/badge/rancher-0D1117?style=for-the-badge&logo=rancher&labelColor=0D1117)&nbsp;
 
+<h3>📊 GitHub Stats:</h3>
+
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fabriciogmatos&show_icons=true&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciogmatos&theme=dark&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciogmatos&hide=html&layout=compact&theme=dark" />
+  </div>
+</details>
 
 ### Contacts:
 
